@@ -19,7 +19,7 @@ top ejemplo (in_1, in_0, out_0);
   end
 
   initial begin
-    #10  $finish;
+    #50  $finish;
   end
 
   initial begin

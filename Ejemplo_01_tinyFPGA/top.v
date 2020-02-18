@@ -6,7 +6,10 @@ module top (
     output PIN_10);
 //output USBPU  // USB pull-up resistor
 
+    logic PIN_10;
+
     //assign USBPU = 0;
-    assign PIN_10 = PIN_1 & PIN_3;
+    always @ (PIN_1 or PIN_3)
+      PIN_10 = PIN_1 & PIN_3;
 
 endmodule
