@@ -5,7 +5,7 @@ module top (
     input PIN_1, PIN_3,    // 16MHz clock
     output PIN_10);
 //output USBPU  // USB pull-up resistor
-
+    logic PIN_1, PIN_3;
     logic PIN_10;
 
     //assign USBPU = 0;
