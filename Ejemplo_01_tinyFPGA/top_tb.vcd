@@ -1,0 +1,32 @@
+$date
+	Tue Feb 18 11:15:10 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$scope module ejemplo $end
+$var wire 1 ! PIN_1 $end
+$var wire 1 " PIN_10 $end
+$var wire 1 # PIN_3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+0"
+0!
+$end
+#1
+1!
+#2
+1#
+0!
+#3
+1"
+1!
+#10
