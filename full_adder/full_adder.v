@@ -1,4 +1,4 @@
-module full_adder(input a, b, cin, output s, cout);
+module full_adder_c(input a, b, cin, output s, cout);
 
   wire p, g;
 
@@ -11,8 +11,8 @@ module full_adder(input a, b, cin, output s, cout);
 endmodule
 
 
-/*
-module full_adder(input a, b, cin, output reg s, cout);
+
+module full_adder_b(input a, b, cin, output reg s, cout);
 
   reg p, g;
 
@@ -39,4 +39,3 @@ module full_adder(input a, b, cin, output reg s, cout);
    //assign cout = coutReg;
 
 endmodule
-*/

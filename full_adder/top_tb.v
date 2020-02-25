@@ -29,7 +29,7 @@ initial begin
 end
 
 initial begin
-  $dumpfile("fulladder_tb.vcd");
+  $dumpfile("top_tb.vcd");
   $dumpvars(0, adder);
 end
 
