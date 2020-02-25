@@ -11,3 +11,4 @@
 full_adder/.sconsign.dblite
 full_adder/fulladder_tb.out
 full_adder/fulladder_tb.vcd
+full_adder/hardware.out
