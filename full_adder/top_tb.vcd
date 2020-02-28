@@ -1,0 +1,109 @@
+$date
+	Wed Feb 26 17:01:23 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$scope module adder $end
+$var wire 4 ! a [3:0] $end
+$var wire 4 " b [3:0] $end
+$var wire 1 # cin $end
+$var wire 4 $ s [3:0] $end
+$var wire 1 % n3 $end
+$var wire 1 & n2 $end
+$var wire 1 ' n1 $end
+$var wire 1 ( cout $end
+$scope module f1 $end
+$var wire 1 ) a $end
+$var wire 1 * b $end
+$var wire 1 # cin $end
+$var wire 1 ' cout $end
+$var wire 1 + g $end
+$var wire 1 , p $end
+$var wire 1 - s $end
+$upscope $end
+$scope module f2 $end
+$var wire 1 . a $end
+$var wire 1 / b $end
+$var wire 1 ' cin $end
+$var reg 1 & cout $end
+$var reg 1 0 g $end
+$var reg 1 1 p $end
+$var reg 1 2 s $end
+$upscope $end
+$scope module f3 $end
+$var wire 1 3 a $end
+$var wire 1 4 b $end
+$var wire 1 & cin $end
+$var wire 1 % cout $end
+$var wire 1 5 g $end
+$var wire 1 6 p $end
+$var wire 1 7 s $end
+$upscope $end
+$scope module f4 $end
+$var wire 1 8 a $end
+$var wire 1 9 b $end
+$var wire 1 % cin $end
+$var reg 1 ( cout $end
+$var reg 1 : g $end
+$var reg 1 ; p $end
+$var reg 1 < s $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+b0 $
+0#
+b0 "
+b0 !
+$end
+#1
+b1 $
+1-
+1,
+1)
+b1 !
+#2
+12
+b10 $
+0-
+1'
+0,
+1+
+1*
+b1 "
+#3
+b11 $
+1-
+1#
+#50
