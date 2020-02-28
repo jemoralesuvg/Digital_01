@@ -2,16 +2,16 @@
 
 module testbench();
 
-reg [3:0] inA, inB;
-wire [3:0] outS;
-reg cin;
-wire cout;
+reg [3:0] inA, inB; // DIP switches
+wire [3:0] outS;    // LEDs
+reg cin;            // DIP
+wire cout;          // LED
 
 full_adder_4bit adder(inA, inB, cin, outS, cout);
 
 initial begin
   $display("a:\tb:\tcin:\ts:\tcout:");
-  $monitor("%b\t%b\t%b\t%b\t%b", inA, inB, cin, outS, cout);
+  $monitor("%d\t%d\t%d\t%d\t%d", inA, inB, cin, outS, cout);
   inA = 4'b0000;
   inB = 4'b0000;
   cin = 1'b0;
