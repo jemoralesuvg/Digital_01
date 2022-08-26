@@ -64,7 +64,7 @@
         }
       },
       "cells": {
-        "$specify$146": {
+        "$specify$135": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -95,7 +95,7 @@
             "SRC": [ 6 ]
           }
         },
-        "$specify$147": {
+        "$specify$136": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -126,7 +126,7 @@
             "SRC": [ 2 ]
           }
         },
-        "$specify$148": {
+        "$specify$137": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -157,7 +157,7 @@
             "SRC": [ 2 ]
           }
         },
-        "$specify$149": {
+        "$specify$138": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -188,7 +188,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$150": {
+        "$specify$139": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -219,7 +219,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$151": {
+        "$specify$140": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -250,7 +250,7 @@
             "SRC": [ 3 ]
           }
         },
-        "$specify$152": {
+        "$specify$141": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -281,7 +281,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$153": {
+        "$specify$142": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -312,7 +312,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$154": {
+        "$specify$143": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -343,7 +343,7 @@
             "SRC": [ 4 ]
           }
         },
-        "$specify$155": {
+        "$specify$144": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -374,7 +374,7 @@
             "SRC": [ 5 ]
           }
         },
-        "$specify$156": {
+        "$specify$145": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -405,7 +405,7 @@
             "SRC": [ 5 ]
           }
         },
-        "$specify$157": {
+        "$specify$146": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -442,7 +442,7 @@
             "SRC": [ 7 ]
           }
         },
-        "$specify$158": {
+        "$specify$147": {
           "hide_name": 1,
           "type": "$specify2",
           "parameters": {
@@ -473,7 +473,7 @@
             "SRC": [ 9 ]
           }
         },
-        "$specify$159": {
+        "$specify$148": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -508,7 +508,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$160": {
+        "$specify$149": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -543,7 +543,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$161": {
+        "$specify$150": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -578,7 +578,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$162": {
+        "$specify$151": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -613,7 +613,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$163": {
+        "$specify$152": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -648,7 +648,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$164": {
+        "$specify$153": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -683,7 +683,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$165": {
+        "$specify$154": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -718,7 +718,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$166": {
+        "$specify$155": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -753,7 +753,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$167": {
+        "$specify$156": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -788,7 +788,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$168": {
+        "$specify$157": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -823,7 +823,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$169": {
+        "$specify$158": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -858,7 +858,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$170": {
+        "$specify$159": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -893,7 +893,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$171": {
+        "$specify$160": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -928,7 +928,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$172": {
+        "$specify$161": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -963,7 +963,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$173": {
+        "$specify$162": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -998,7 +998,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$174": {
+        "$specify$163": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1033,7 +1033,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$175": {
+        "$specify$164": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1068,7 +1068,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$176": {
+        "$specify$165": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1103,7 +1103,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$177": {
+        "$specify$166": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1138,7 +1138,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$178": {
+        "$specify$167": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1173,7 +1173,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$179": {
+        "$specify$168": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -1208,7 +1208,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$180": {
+        "$specify$169": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -3408,9 +3408,8 @@
     },
     "SB_DFFSR": {
       "attributes": {
-        "blackbox": "00000000000000000000000000000001",
         "abc9_flop": "00000000000000000000000000000001",
-        "cells_not_processed": "00000000000000000000000000000001",
+        "blackbox": "00000000000000000000000000000001",
         "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:344.1-389.10"
       },
       "ports": {
@@ -6399,7 +6398,7 @@
         }
       },
       "cells": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593$265": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593$254": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6423,7 +6422,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1595$266": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1595$255": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6447,7 +6446,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1601$267": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1601$256": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6471,7 +6470,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1605$268": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1605$257": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -6495,42 +6494,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$110": {
-          "hide_name": 1,
-          "type": "$specrule",
-          "parameters": {
-            "DST_PEN": "1",
-            "DST_POL": "1",
-            "DST_WIDTH": "00000000000000000000000000000001",
-            "SRC_PEN": "0",
-            "SRC_POL": "0",
-            "SRC_WIDTH": "00000000000000000000000000010000",
-            "TYPE": "$setup",
-            "T_LIMIT2_MAX": "00000000000000000000000000000000",
-            "T_LIMIT2_MIN": "00000000000000000000000000000000",
-            "T_LIMIT2_TYP": "00000000000000000000000000000000",
-            "T_LIMIT_MAX": "00000000000000000000000100010010",
-            "T_LIMIT_MIN": "00000000000000000000000100010010",
-            "T_LIMIT_TYP": "00000000000000000000000100010010"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593.3-1593.51"
-          },
-          "port_directions": {
-            "DST": "input",
-            "DST_EN": "output",
-            "SRC": "input",
-            "SRC_EN": "output"
-          },
-          "connections": {
-            "DST": [ 32 ],
-            "DST_EN": [ 78 ],
-            "SRC": [ 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61 ],
-            "SRC_EN": [ "1" ]
-          }
-        },
-        "$specify$111": {
+        "$specify$100": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6565,7 +6529,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$112": {
+        "$specify$101": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6600,7 +6564,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$113": {
+        "$specify$102": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6635,7 +6599,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$114": {
+        "$specify$103": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6670,7 +6634,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$115": {
+        "$specify$104": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6705,7 +6669,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$116": {
+        "$specify$105": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6740,7 +6704,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$117": {
+        "$specify$106": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -6775,7 +6739,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$118": {
+        "$specify$107": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -6811,31 +6775,66 @@
             "EN": [ "1" ],
             "SRC": [ 18 ]
           }
+        },
+        "$specify$99": {
+          "hide_name": 1,
+          "type": "$specrule",
+          "parameters": {
+            "DST_PEN": "1",
+            "DST_POL": "1",
+            "DST_WIDTH": "00000000000000000000000000000001",
+            "SRC_PEN": "0",
+            "SRC_POL": "0",
+            "SRC_WIDTH": "00000000000000000000000000010000",
+            "TYPE": "$setup",
+            "T_LIMIT2_MAX": "00000000000000000000000000000000",
+            "T_LIMIT2_MIN": "00000000000000000000000000000000",
+            "T_LIMIT2_TYP": "00000000000000000000000000000000",
+            "T_LIMIT_MAX": "00000000000000000000000100010010",
+            "T_LIMIT_MIN": "00000000000000000000000100010010",
+            "T_LIMIT_TYP": "00000000000000000000000100010010"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593.3-1593.51"
+          },
+          "port_directions": {
+            "DST": "input",
+            "DST_EN": "output",
+            "SRC": "input",
+            "SRC_EN": "output"
+          },
+          "connections": {
+            "DST": [ 32 ],
+            "DST_EN": [ 78 ],
+            "SRC": [ 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61 ],
+            "SRC_EN": [ "1" ]
+          }
         }
       },
       "netnames": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593$265_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593$254_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1593.33-1593.44"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1595$266_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1595$255_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1595.34-1595.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1601$267_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1601$256_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1601.34-1601.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1605$268_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1605$257_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -7000,7 +6999,7 @@
         }
       },
       "cells": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1729$269": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1729$258": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7024,7 +7023,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1731$270": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1731$259": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7048,7 +7047,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1737$271": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1737$260": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7072,7 +7071,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1741$272": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1741$261": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7096,7 +7095,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$119": {
+        "$specify$108": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7131,7 +7130,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$120": {
+        "$specify$109": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7166,7 +7165,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$121": {
+        "$specify$110": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7201,7 +7200,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$122": {
+        "$specify$111": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7236,7 +7235,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$123": {
+        "$specify$112": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7271,7 +7270,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$124": {
+        "$specify$113": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7306,7 +7305,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$125": {
+        "$specify$114": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7341,7 +7340,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$126": {
+        "$specify$115": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7376,7 +7375,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$127": {
+        "$specify$116": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -7415,28 +7414,28 @@
         }
       },
       "netnames": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1729$269_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1729$258_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1729.33-1729.44"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1731$270_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1731$259_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1731.35-1731.46"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1737$271_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1737$260_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1737.34-1737.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1741$272_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1741$261_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -7601,7 +7600,7 @@
         }
       },
       "cells": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2001$277": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2001$266": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7625,7 +7624,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2003$278": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2003$267": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7649,7 +7648,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2009$279": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2009$268": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7673,7 +7672,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2013$280": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2013$269": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -7697,7 +7696,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$137": {
+        "$specify$126": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7732,7 +7731,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$138": {
+        "$specify$127": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7767,7 +7766,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$139": {
+        "$specify$128": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7802,7 +7801,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$140": {
+        "$specify$129": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7837,7 +7836,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$141": {
+        "$specify$130": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7872,7 +7871,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$142": {
+        "$specify$131": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7907,7 +7906,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$143": {
+        "$specify$132": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7942,7 +7941,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$144": {
+        "$specify$133": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -7977,7 +7976,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$145": {
+        "$specify$134": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -8016,28 +8015,28 @@
         }
       },
       "netnames": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2001$277_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2001$266_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2001.34-2001.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2003$278_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2003$267_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2003.35-2003.46"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2009$279_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2009$268_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2009.35-2009.46"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2013$280_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:2013$269_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -8202,7 +8201,7 @@
         }
       },
       "cells": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1865$273": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1865$262": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8226,7 +8225,7 @@
             "Y": [ 78 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1867$274": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1867$263": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8250,7 +8249,7 @@
             "Y": [ 79 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1873$275": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1873$264": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8274,7 +8273,7 @@
             "Y": [ 80 ]
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1877$276": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1877$265": {
           "hide_name": 1,
           "type": "$logic_and",
           "parameters": {
@@ -8298,7 +8297,7 @@
             "Y": [ 81 ]
           }
         },
-        "$specify$128": {
+        "$specify$117": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8333,7 +8332,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$129": {
+        "$specify$118": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8368,7 +8367,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$130": {
+        "$specify$119": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8403,7 +8402,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$131": {
+        "$specify$120": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8438,7 +8437,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$132": {
+        "$specify$121": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8473,7 +8472,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$133": {
+        "$specify$122": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8508,7 +8507,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$134": {
+        "$specify$123": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8543,7 +8542,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$135": {
+        "$specify$124": {
           "hide_name": 1,
           "type": "$specrule",
           "parameters": {
@@ -8578,7 +8577,7 @@
             "SRC_EN": [ "1" ]
           }
         },
-        "$specify$136": {
+        "$specify$125": {
           "hide_name": 1,
           "type": "$specify3",
           "parameters": {
@@ -8617,28 +8616,28 @@
         }
       },
       "netnames": {
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1865$273_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1865$262_Y": {
           "hide_name": 1,
           "bits": [ 78 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1865.34-1865.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1867$274_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1867$263_Y": {
           "hide_name": 1,
           "bits": [ 79 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1867.34-1867.45"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1873$275_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1873$264_Y": {
           "hide_name": 1,
           "bits": [ 80 ],
           "attributes": {
             "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1873.35-1873.46"
           }
         },
-        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1877$276_Y": {
+        "$logic_and$C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_sim.v:1877$265_Y": {
           "hide_name": 1,
           "bits": [ 81 ],
           "attributes": {
@@ -10200,7 +10199,7 @@
             "I0": [ "0" ],
             "I1": [ "0" ],
             "I2": [ "0" ],
-            "I3": [ 18 ],
+            "I3": [ 36 ],
             "O": [ 65 ]
           }
         },
@@ -10454,24 +10453,76 @@
             "O": [ 10 ]
           }
         },
-        "PIN_1_SB_DFF_Q": {
+        "PIN_1_SB_DFFSR_Q": {
           "hide_name": 0,
-          "type": "SB_DFF",
+          "type": "SB_DFFSR",
           "parameters": {
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:27.23-27.46|fsm_moore.v:10.5-16.8|semaforo.v:14.12-14.56|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+            "src": "top.v:27.23-27.46|fsm_moore.v:26.5-32.8|semaforo.v:14.12-14.56|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
             "D": "input",
-            "Q": "output"
+            "Q": "output",
+            "R": "input"
           },
           "connections": {
             "C": [ 11 ],
             "D": [ 88 ],
-            "Q": [ 5 ]
+            "Q": [ 5 ],
+            "R": [ 89 ]
+          }
+        },
+        "PIN_1_SB_DFFSR_Q_D_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0000111111110000"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_map.v:17.34-18.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ "0" ],
+            "I2": [ 5 ],
+            "I3": [ 87 ],
+            "O": [ 88 ]
+          }
+        },
+        "PIN_1_SB_DFFSR_Q_R_SB_LUT4_O": {
+          "hide_name": 0,
+          "type": "SB_LUT4",
+          "parameters": {
+            "LUT_INIT": "0000000000001111"
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_map.v:17.34-18.52"
+          },
+          "port_directions": {
+            "I0": "input",
+            "I1": "input",
+            "I2": "input",
+            "I3": "input",
+            "O": "output"
+          },
+          "connections": {
+            "I0": [ "0" ],
+            "I1": [ "0" ],
+            "I2": [ 5 ],
+            "I3": [ 87 ],
+            "O": [ 89 ]
           }
         },
         "PIN_2_SB_LUT4_O": {
@@ -10528,31 +10579,6 @@
           "hide_name": 0,
           "type": "SB_LUT4",
           "parameters": {
-            "LUT_INIT": "0000111111110000"
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/cells_map.v:17.34-18.52"
-          },
-          "port_directions": {
-            "I0": "input",
-            "I1": "input",
-            "I2": "input",
-            "I3": "input",
-            "O": "output"
-          },
-          "connections": {
-            "I0": [ "0" ],
-            "I1": [ "0" ],
-            "I2": [ 5 ],
-            "I3": [ 87 ],
-            "O": [ 88 ]
-          }
-        },
-        "U1.FSM1.next_state_SB_LUT4_O_1": {
-          "hide_name": 0,
-          "type": "SB_LUT4",
-          "parameters": {
             "LUT_INIT": "0000001100000101"
           },
           "attributes": {
@@ -10571,7 +10597,7 @@
             "I1": [ 3 ],
             "I2": [ 87 ],
             "I3": [ 5 ],
-            "O": [ 89 ]
+            "O": [ 90 ]
           }
         },
         "U1.FSM1.state_SB_DFF_Q": {
@@ -10581,7 +10607,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:27.23-27.46|fsm_moore.v:10.5-16.8|semaforo.v:14.12-14.56|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+            "src": "top.v:27.23-27.46|fsm_moore.v:26.5-32.8|semaforo.v:14.12-14.56|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
           },
           "port_directions": {
             "C": "input",
@@ -10590,7 +10616,7 @@
           },
           "connections": {
             "C": [ 11 ],
-            "D": [ 89 ],
+            "D": [ 90 ],
             "Q": [ 87 ]
           }
         },
@@ -10609,10 +10635,10 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 18 ],
-            "CO": [ 48 ],
+            "CI": [ 36 ],
+            "CO": [ 85 ],
             "I0": [ "0" ],
-            "I1": [ 17 ]
+            "I1": [ 35 ]
           }
         },
         "counter_SB_CARRY_I1": {
@@ -10630,118 +10656,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 27 ],
-            "CO": [ 24 ],
-            "I0": [ "0" ],
-            "I1": [ 26 ]
-          }
-        },
-        "counter_SB_CARRY_I1_1": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 30 ],
-            "CO": [ 27 ],
-            "I0": [ "0" ],
-            "I1": [ 29 ]
-          }
-        },
-        "counter_SB_CARRY_I1_10": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 60 ],
-            "CO": [ 57 ],
-            "I0": [ "0" ],
-            "I1": [ 59 ]
-          }
-        },
-        "counter_SB_CARRY_I1_11": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 63 ],
-            "CO": [ 60 ],
-            "I0": [ "0" ],
-            "I1": [ 62 ]
-          }
-        },
-        "counter_SB_CARRY_I1_12": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 15 ],
-            "CO": [ 63 ],
-            "I0": [ "0" ],
-            "I1": [ 14 ]
-          }
-        },
-        "counter_SB_CARRY_I1_13": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
             "CI": [ 51 ],
-            "CO": [ 15 ],
+            "CO": [ 18 ],
             "I0": [ "0" ],
             "I1": [ 50 ]
           }
         },
-        "counter_SB_CARRY_I1_14": {
+        "counter_SB_CARRY_I1_1": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10762,7 +10683,7 @@
             "I1": [ 66 ]
           }
         },
-        "counter_SB_CARRY_I1_15": {
+        "counter_SB_CARRY_I1_10": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10777,13 +10698,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 70 ],
-            "CO": [ 67 ],
+            "CI": [ 27 ],
+            "CO": [ 24 ],
             "I0": [ "0" ],
-            "I1": [ 69 ]
+            "I1": [ 26 ]
           }
         },
-        "counter_SB_CARRY_I1_16": {
+        "counter_SB_CARRY_I1_11": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10798,76 +10719,13 @@
             "I1": "input"
           },
           "connections": {
-            "CI": [ 73 ],
-            "CO": [ 70 ],
+            "CI": [ 30 ],
+            "CO": [ 27 ],
             "I0": [ "0" ],
-            "I1": [ 72 ]
+            "I1": [ 29 ]
           }
         },
-        "counter_SB_CARRY_I1_17": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 76 ],
-            "CO": [ 73 ],
-            "I0": [ "0" ],
-            "I1": [ 75 ]
-          }
-        },
-        "counter_SB_CARRY_I1_18": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 79 ],
-            "CO": [ 76 ],
-            "I0": [ "0" ],
-            "I1": [ 78 ]
-          }
-        },
-        "counter_SB_CARRY_I1_19": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 82 ],
-            "CO": [ 79 ],
-            "I0": [ "0" ],
-            "I1": [ 81 ]
-          }
-        },
-        "counter_SB_CARRY_I1_2": {
+        "counter_SB_CARRY_I1_12": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10888,91 +10746,7 @@
             "I1": [ 32 ]
           }
         },
-        "counter_SB_CARRY_I1_20": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 85 ],
-            "CO": [ 82 ],
-            "I0": [ "0" ],
-            "I1": [ 84 ]
-          }
-        },
-        "counter_SB_CARRY_I1_21": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 21 ],
-            "CO": [ 85 ],
-            "I0": [ "0" ],
-            "I1": [ 20 ]
-          }
-        },
-        "counter_SB_CARRY_I1_22": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 24 ],
-            "CO": [ 21 ],
-            "I0": [ "0" ],
-            "I1": [ 23 ]
-          }
-        },
-        "counter_SB_CARRY_I1_3": {
-          "hide_name": 0,
-          "type": "SB_CARRY",
-          "parameters": {
-          },
-          "attributes": {
-            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
-          },
-          "port_directions": {
-            "CI": "input",
-            "CO": "output",
-            "I0": "input",
-            "I1": "input"
-          },
-          "connections": {
-            "CI": [ 36 ],
-            "CO": [ 33 ],
-            "I0": [ "0" ],
-            "I1": [ 35 ]
-          }
-        },
-        "counter_SB_CARRY_I1_4": {
+        "counter_SB_CARRY_I1_13": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -10988,12 +10762,12 @@
           },
           "connections": {
             "CI": [ 39 ],
-            "CO": [ 36 ],
+            "CO": [ 33 ],
             "I0": [ "0" ],
             "I1": [ 38 ]
           }
         },
-        "counter_SB_CARRY_I1_5": {
+        "counter_SB_CARRY_I1_14": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -11014,7 +10788,7 @@
             "I1": [ 41 ]
           }
         },
-        "counter_SB_CARRY_I1_6": {
+        "counter_SB_CARRY_I1_15": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -11035,7 +10809,7 @@
             "I1": [ 44 ]
           }
         },
-        "counter_SB_CARRY_I1_7": {
+        "counter_SB_CARRY_I1_16": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -11056,7 +10830,7 @@
             "I1": [ 47 ]
           }
         },
-        "counter_SB_CARRY_I1_8": {
+        "counter_SB_CARRY_I1_17": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -11072,12 +10846,12 @@
           },
           "connections": {
             "CI": [ 54 ],
-            "CO": [ 13 ],
+            "CO": [ 48 ],
             "I0": [ "0" ],
             "I1": [ 53 ]
           }
         },
-        "counter_SB_CARRY_I1_9": {
+        "counter_SB_CARRY_I1_18": {
           "hide_name": 0,
           "type": "SB_CARRY",
           "parameters": {
@@ -11098,107 +10872,259 @@
             "I1": [ 56 ]
           }
         },
+        "counter_SB_CARRY_I1_19": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 60 ],
+            "CO": [ 57 ],
+            "I0": [ "0" ],
+            "I1": [ 59 ]
+          }
+        },
+        "counter_SB_CARRY_I1_2": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 70 ],
+            "CO": [ 67 ],
+            "I0": [ "0" ],
+            "I1": [ 69 ]
+          }
+        },
+        "counter_SB_CARRY_I1_20": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 63 ],
+            "CO": [ 60 ],
+            "I0": [ "0" ],
+            "I1": [ 62 ]
+          }
+        },
+        "counter_SB_CARRY_I1_21": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 15 ],
+            "CO": [ 63 ],
+            "I0": [ "0" ],
+            "I1": [ 14 ]
+          }
+        },
+        "counter_SB_CARRY_I1_22": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 18 ],
+            "CO": [ 15 ],
+            "I0": [ "0" ],
+            "I1": [ 17 ]
+          }
+        },
+        "counter_SB_CARRY_I1_3": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 73 ],
+            "CO": [ 70 ],
+            "I0": [ "0" ],
+            "I1": [ 72 ]
+          }
+        },
+        "counter_SB_CARRY_I1_4": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 76 ],
+            "CO": [ 73 ],
+            "I0": [ "0" ],
+            "I1": [ 75 ]
+          }
+        },
+        "counter_SB_CARRY_I1_5": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 79 ],
+            "CO": [ 76 ],
+            "I0": [ "0" ],
+            "I1": [ 78 ]
+          }
+        },
+        "counter_SB_CARRY_I1_6": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 82 ],
+            "CO": [ 79 ],
+            "I0": [ "0" ],
+            "I1": [ 81 ]
+          }
+        },
+        "counter_SB_CARRY_I1_7": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 85 ],
+            "CO": [ 82 ],
+            "I0": [ "0" ],
+            "I1": [ 84 ]
+          }
+        },
+        "counter_SB_CARRY_I1_8": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 21 ],
+            "CO": [ 13 ],
+            "I0": [ "0" ],
+            "I1": [ 20 ]
+          }
+        },
+        "counter_SB_CARRY_I1_9": {
+          "hide_name": 0,
+          "type": "SB_CARRY",
+          "parameters": {
+          },
+          "attributes": {
+            "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:62.5-70.4"
+          },
+          "port_directions": {
+            "CI": "input",
+            "CO": "output",
+            "I0": "input",
+            "I1": "input"
+          },
+          "connections": {
+            "CI": [ 24 ],
+            "CO": [ 21 ],
+            "I0": [ "0" ],
+            "I1": [ 23 ]
+          }
+        },
         "counter_SB_DFF_Q": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 55 ],
-            "Q": [ 53 ]
-          }
-        },
-        "counter_SB_DFF_Q_1": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 58 ],
-            "Q": [ 56 ]
-          }
-        },
-        "counter_SB_DFF_Q_10": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 80 ],
-            "Q": [ 78 ]
-          }
-        },
-        "counter_SB_DFF_Q_11": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 83 ],
-            "Q": [ 81 ]
-          }
-        },
-        "counter_SB_DFF_Q_12": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 86 ],
-            "Q": [ 84 ]
-          }
-        },
-        "counter_SB_DFF_Q_13": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11218,7 +11144,7 @@
             "Q": [ 20 ]
           }
         },
-        "counter_SB_DFF_Q_14": {
+        "counter_SB_DFF_Q_1": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11238,7 +11164,7 @@
             "Q": [ 23 ]
           }
         },
-        "counter_SB_DFF_Q_15": {
+        "counter_SB_DFF_Q_10": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11254,91 +11180,11 @@
           },
           "connections": {
             "C": [ 2 ],
-            "D": [ 28 ],
-            "Q": [ 26 ]
+            "D": [ 58 ],
+            "Q": [ 56 ]
           }
         },
-        "counter_SB_DFF_Q_16": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 31 ],
-            "Q": [ 29 ]
-          }
-        },
-        "counter_SB_DFF_Q_17": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 34 ],
-            "Q": [ 32 ]
-          }
-        },
-        "counter_SB_DFF_Q_18": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 37 ],
-            "Q": [ 35 ]
-          }
-        },
-        "counter_SB_DFF_Q_19": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 40 ],
-            "Q": [ 38 ]
-          }
-        },
-        "counter_SB_DFF_Q_2": {
+        "counter_SB_DFF_Q_11": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11358,107 +11204,7 @@
             "Q": [ 59 ]
           }
         },
-        "counter_SB_DFF_Q_20": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 43 ],
-            "Q": [ 41 ]
-          }
-        },
-        "counter_SB_DFF_Q_21": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 46 ],
-            "Q": [ 44 ]
-          }
-        },
-        "counter_SB_DFF_Q_22": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 49 ],
-            "Q": [ 47 ]
-          }
-        },
-        "counter_SB_DFF_Q_23": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 19 ],
-            "Q": [ 17 ]
-          }
-        },
-        "counter_SB_DFF_Q_24": {
-          "hide_name": 0,
-          "type": "SB_DFF",
-          "parameters": {
-          },
-          "attributes": {
-            "module_not_derived": "00000000000000000000000000000001",
-            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
-          },
-          "port_directions": {
-            "C": "input",
-            "D": "input",
-            "Q": "output"
-          },
-          "connections": {
-            "C": [ 2 ],
-            "D": [ 65 ],
-            "Q": [ 18 ]
-          }
-        },
-        "counter_SB_DFF_Q_3": {
+        "counter_SB_DFF_Q_12": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11478,7 +11224,7 @@
             "Q": [ 62 ]
           }
         },
-        "counter_SB_DFF_Q_4": {
+        "counter_SB_DFF_Q_13": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11498,7 +11244,27 @@
             "Q": [ 14 ]
           }
         },
-        "counter_SB_DFF_Q_5": {
+        "counter_SB_DFF_Q_14": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 19 ],
+            "Q": [ 17 ]
+          }
+        },
+        "counter_SB_DFF_Q_15": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11518,7 +11284,7 @@
             "Q": [ 50 ]
           }
         },
-        "counter_SB_DFF_Q_6": {
+        "counter_SB_DFF_Q_16": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11538,7 +11304,7 @@
             "Q": [ 66 ]
           }
         },
-        "counter_SB_DFF_Q_7": {
+        "counter_SB_DFF_Q_17": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11558,7 +11324,7 @@
             "Q": [ 69 ]
           }
         },
-        "counter_SB_DFF_Q_8": {
+        "counter_SB_DFF_Q_18": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11578,7 +11344,7 @@
             "Q": [ 72 ]
           }
         },
-        "counter_SB_DFF_Q_9": {
+        "counter_SB_DFF_Q_19": {
           "hide_name": 0,
           "type": "SB_DFF",
           "parameters": {
@@ -11596,6 +11362,266 @@
             "C": [ 2 ],
             "D": [ 77 ],
             "Q": [ 75 ]
+          }
+        },
+        "counter_SB_DFF_Q_2": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 28 ],
+            "Q": [ 26 ]
+          }
+        },
+        "counter_SB_DFF_Q_20": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 80 ],
+            "Q": [ 78 ]
+          }
+        },
+        "counter_SB_DFF_Q_21": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 83 ],
+            "Q": [ 81 ]
+          }
+        },
+        "counter_SB_DFF_Q_22": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 86 ],
+            "Q": [ 84 ]
+          }
+        },
+        "counter_SB_DFF_Q_23": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 37 ],
+            "Q": [ 35 ]
+          }
+        },
+        "counter_SB_DFF_Q_24": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 65 ],
+            "Q": [ 36 ]
+          }
+        },
+        "counter_SB_DFF_Q_3": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 31 ],
+            "Q": [ 29 ]
+          }
+        },
+        "counter_SB_DFF_Q_4": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 34 ],
+            "Q": [ 32 ]
+          }
+        },
+        "counter_SB_DFF_Q_5": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 40 ],
+            "Q": [ 38 ]
+          }
+        },
+        "counter_SB_DFF_Q_6": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 43 ],
+            "Q": [ 41 ]
+          }
+        },
+        "counter_SB_DFF_Q_7": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 46 ],
+            "Q": [ 44 ]
+          }
+        },
+        "counter_SB_DFF_Q_8": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 49 ],
+            "Q": [ 47 ]
+          }
+        },
+        "counter_SB_DFF_Q_9": {
+          "hide_name": 0,
+          "type": "SB_DFF",
+          "parameters": {
+          },
+          "attributes": {
+            "module_not_derived": "00000000000000000000000000000001",
+            "src": "top.v:33.5-35.8|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/ff_map.v:2.51-2.90"
+          },
+          "port_directions": {
+            "C": "input",
+            "D": "input",
+            "Q": "output"
+          },
+          "connections": {
+            "C": [ 2 ],
+            "D": [ 55 ],
+            "Q": [ 53 ]
           }
         }
       },
@@ -11630,7 +11656,7 @@
         },
         "LED_SB_LUT4_I2_I3": {
           "hide_name": 0,
-          "bits": [ "0", 18, 48, 45, 42, 39, 36, 33, 30, 27, 24, 21, 85, 82, 79, 76, 73, 70, 67, 51, 15, 63, 60, 57, 54, 13 ],
+          "bits": [ "0", 36, 85, 82, 79, 76, 73, 70, 67, 51, 18, 15, 63, 60, 57, 54, 48, 45, 42, 39, 33, 30, 27, 24, 21, 13 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:51.21-51.22"
@@ -11638,7 +11664,7 @@
         },
         "LED_SB_LUT4_I2_O": {
           "hide_name": 0,
-          "bits": [ 65, 19, 49, 46, 43, 40, 37, 34, 31, 28, 25, 22, 86, 83, 80, 77, 74, 71, 68, 52, 16, 64, 61, 58, 55, 12 ],
+          "bits": [ 65, 37, 86, 83, 80, 77, 74, 71, 68, 52, 19, 16, 64, 61, 58, 55, 49, 46, 43, 40, 34, 31, 28, 25, 22, 12 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
             "src": "top.v:34.20-34.31|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/ice40/arith_map.v:33.26-33.27"
@@ -11686,6 +11712,21 @@
             "src": "top.v:6.16-6.22"
           }
         },
+        "PIN_1_SB_DFFSR_Q_D": {
+          "hide_name": 0,
+          "bits": [ 91, 88 ],
+          "attributes": {
+            "force_downto": "00000000000000000000000000000001",
+            "src": "top.v:27.23-27.46|fsm_moore.v:0.0-0.0|fsm_moore.v:9.9-21.16|semaforo.v:14.12-14.56|C:\\Users\\Mining\\APIO~1\\packages\\TOOLS-~2\\bin\\../share/yosys/techmap.v:578.19-578.22",
+            "unused_bits": "0 "
+          }
+        },
+        "PIN_1_SB_DFFSR_Q_R": {
+          "hide_name": 0,
+          "bits": [ 89 ],
+          "attributes": {
+          }
+        },
         "PIN_2": {
           "hide_name": 0,
           "bits": [ 6 ],
@@ -11714,15 +11755,6 @@
             "src": "top.v:14.14-14.16"
           }
         },
-        "U1.DEC0.A": {
-          "hide_name": 0,
-          "bits": [ 90, 5 ],
-          "attributes": {
-            "hdlname": "U1 DEC0 A",
-            "src": "top.v:27.23-27.46|decoder.v:2.17-2.18|semaforo.v:16.14-16.40",
-            "unused_bits": "0 "
-          }
-        },
         "U1.DEC0.Y": {
           "hide_name": 0,
           "bits": [ 7, 6, 5, "x" ],
@@ -11737,15 +11769,6 @@
           "attributes": {
             "hdlname": "U1 DEC1 Y",
             "src": "top.v:27.23-27.46|decoder.v:3.22-3.23|semaforo.v:17.14-17.40"
-          }
-        },
-        "U1.FSM1.LA": {
-          "hide_name": 0,
-          "bits": [ 90, 5 ],
-          "attributes": {
-            "hdlname": "U1 FSM1 LA",
-            "src": "top.v:27.23-27.46|fsm_moore.v:1.58-1.60|semaforo.v:14.12-14.56",
-            "unused_bits": "0 "
           }
         },
         "U1.FSM1.TA": {
@@ -11774,10 +11797,10 @@
         },
         "U1.FSM1.next_state": {
           "hide_name": 0,
-          "bits": [ 89, 88 ],
+          "bits": [ 90, "x" ],
           "attributes": {
             "hdlname": "U1 FSM1 next_state",
-            "src": "top.v:27.23-27.46|fsm_moore.v:2.16-2.26|semaforo.v:14.12-14.56"
+            "src": "top.v:27.23-27.46|fsm_moore.v:2.22-2.32|semaforo.v:14.12-14.56"
           }
         },
         "U1.FSM1.reset": {
@@ -11793,7 +11816,7 @@
           "bits": [ 87, 5 ],
           "attributes": {
             "hdlname": "U1 FSM1 state",
-            "src": "top.v:27.23-27.46|fsm_moore.v:3.12-3.17|semaforo.v:14.12-14.56"
+            "src": "top.v:27.23-27.46|fsm_moore.v:2.15-2.20|semaforo.v:14.12-14.56"
           }
         },
         "U1.LA": {
@@ -11802,15 +11825,6 @@
           "attributes": {
             "hdlname": "U1 LA",
             "src": "top.v:27.23-27.46|semaforo.v:3.15-3.17"
-          }
-        },
-        "U1.LA_coded": {
-          "hide_name": 0,
-          "bits": [ 90, 5 ],
-          "attributes": {
-            "hdlname": "U1 LA_coded",
-            "src": "top.v:27.23-27.46|semaforo.v:6.13-6.21",
-            "unused_bits": "0 "
           }
         },
         "U1.LA_decoded": {
@@ -11885,7 +11899,7 @@
         },
         "counter": {
           "hide_name": 0,
-          "bits": [ 18, 17, 47, 44, 41, 38, 35, 32, 29, 26, 23, 20, 84, 81, 78, 75, 72, 69, 66, 50, 14, 62, 59, 56, 53, 11 ],
+          "bits": [ 36, 35, 84, 81, 78, 75, 72, 69, 66, 50, 17, 14, 62, 59, 56, 53, 47, 44, 41, 38, 32, 29, 26, 23, 20, 11 ],
           "attributes": {
             "src": "top.v:30.16-30.23"
           }

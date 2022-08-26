@@ -1,0 +1,234 @@
+$date
+	Thu Aug 25 21:34:35 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module top_tb $end
+$var wire 3 ! LB [2:0] $end
+$var wire 3 " LA [2:0] $end
+$var reg 1 # TA $end
+$var reg 1 $ TB $end
+$var reg 1 % clk $end
+$scope module U1 $end
+$var wire 1 # TA $end
+$var wire 1 $ TB $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var wire 4 ' LB_decoded [3:0] $end
+$var wire 2 ( LB_coded [1:0] $end
+$var wire 3 ) LB [2:0] $end
+$var wire 4 * LA_decoded [3:0] $end
+$var wire 2 + LA_coded [1:0] $end
+$var wire 3 , LA [2:0] $end
+$scope module DEC0 $end
+$var wire 2 - A [1:0] $end
+$var reg 4 . Y [3:0] $end
+$upscope $end
+$scope module DEC1 $end
+$var wire 2 / A [1:0] $end
+$var reg 4 0 Y [3:0] $end
+$upscope $end
+$scope module FSM1 $end
+$var wire 1 # TA $end
+$var wire 1 $ TB $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var wire 2 1 next_state [1:0] $end
+$var wire 2 2 LB [1:0] $end
+$var wire 2 3 LA [1:0] $end
+$var reg 2 4 state [1:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 4
+b0 3
+b10 2
+b1 1
+b100 0
+b10 /
+b1 .
+b0 -
+b1 ,
+b0 +
+b1 *
+b100 )
+b10 (
+b100 '
+0&
+0%
+0$
+0#
+b1 "
+b100 !
+$end
+#5
+b10 "
+b10 ,
+b10 *
+b10 .
+b10 1
+b1 +
+b1 -
+b1 3
+b1 4
+1%
+#10
+0%
+#15
+b11 1
+b1 !
+b1 )
+b100 "
+b100 ,
+b1 '
+b1 0
+b100 *
+b100 .
+b0 (
+b0 /
+b0 2
+b10 +
+b10 -
+b10 3
+b10 4
+1%
+#20
+0%
+#25
+b10 !
+b10 )
+b10 '
+b10 0
+b0 1
+b1 (
+b1 /
+b1 2
+b11 4
+1%
+#30
+0%
+1#
+#35
+b100 !
+b100 )
+b1 "
+b1 ,
+b100 '
+b100 0
+b1 *
+b1 .
+b10 (
+b10 /
+b10 2
+b0 +
+b0 -
+b0 3
+b0 4
+1%
+#40
+0%
+1$
+#45
+1%
+#50
+0%
+#55
+1%
+#60
+b1 1
+0%
+0#
+#65
+b10 "
+b10 ,
+b10 *
+b10 .
+b10 1
+b1 +
+b1 -
+b1 3
+b1 4
+1%
+#70
+0%
+#75
+b1 !
+b1 )
+b100 "
+b100 ,
+b1 '
+b1 0
+b100 *
+b100 .
+b0 (
+b0 /
+b0 2
+b10 +
+b10 -
+b10 3
+b10 4
+1%
+#80
+0%
+#85
+1%
+#90
+b11 1
+0%
+0$
+#95
+b10 !
+b10 )
+b10 '
+b10 0
+b0 1
+b1 (
+b1 /
+b1 2
+b11 4
+1%
+#100
+0%
+1#
+#105
+b100 !
+b100 )
+b1 "
+b1 ,
+b100 '
+b100 0
+b1 *
+b1 .
+b10 (
+b10 /
+b10 2
+b0 +
+b0 -
+b0 3
+b0 4
+1%
+#110
+0%
+#115
+1%
+#120
+0%
+#125
+1%
+#130
+0%
+#135
+1%
+#140
+0%
+#145
+1%
+#150
+0%
