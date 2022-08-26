@@ -1,0 +1,76 @@
+$date
+	Mon Aug 15 20:19:13 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module mux_tb $end
+$var wire 1 ! out $end
+$var reg 1 " d0 $end
+$var reg 1 # d1 $end
+$var reg 1 $ d2 $end
+$var reg 1 % d3 $end
+$var reg 1 & d4 $end
+$var reg 1 ' d5 $end
+$var reg 1 ( d6 $end
+$var reg 1 ) d7 $end
+$var reg 1 * s0 $end
+$var reg 1 + s1 $end
+$var reg 1 , s2 $end
+$scope module u1 $end
+$var wire 1 " D0 $end
+$var wire 1 # D1 $end
+$var wire 1 $ D2 $end
+$var wire 1 % D3 $end
+$var wire 1 & D4 $end
+$var wire 1 ' D5 $end
+$var wire 1 ( D6 $end
+$var wire 1 ) D7 $end
+$var wire 1 , S0 $end
+$var wire 1 + S1 $end
+$var wire 1 * S2 $end
+$var reg 1 ! out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0,
+0+
+0*
+0)
+0(
+1'
+1&
+0%
+0$
+1#
+0"
+0!
+$end
+#5
+1!
+1*
+#10
+0!
+0*
+1+
+#15
+1*
+#20
+1!
+0*
+0+
+1,
+#25
+1*
+#30
+0!
+0*
+1+
+#35
+1*
+#40
